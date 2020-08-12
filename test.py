@@ -2,8 +2,13 @@ import os
 import ast
 
 
+#uncomment/comment to see the difference in scan results
+
 # eval("__import__('os').system('clear')", {'__builtins__':{}})
 # print(1)
+
+
+
 
 
 if __name__ == '__main__':
