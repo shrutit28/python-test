@@ -3,7 +3,7 @@ import ast
 
 
 eval("__import__('os').system('clear')", {'__builtins__':{}})
-
+print(1)
 
 
 if __name__ == '__main__':
