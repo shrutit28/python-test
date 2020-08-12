@@ -3,6 +3,7 @@ import ast
 
 
 #uncomment/comment to see the difference in scan results
+#do not enter it will change line number and wont be marked as duplicate
 
 eval("__import__('os').system('clear')", {'__builtins__':{}})
 print(1)
