@@ -2,7 +2,7 @@ import os
 import ast
 
 
-eval("__import__('os').system('clear')", {'__builtins__':{}})
+#eval("__import__('os').system('clear')", {'__builtins__':{}})
 
 
 
