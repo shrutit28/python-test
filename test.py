@@ -4,8 +4,8 @@ import ast
 
 #uncomment/comment to see the difference in scan results
 
-# eval("__import__('os').system('clear')", {'__builtins__':{}})
-# print(1)
+eval("__import__('os').system('clear')", {'__builtins__':{}})
+print(1)
 
 
 
