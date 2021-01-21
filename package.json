@@ -10,7 +10,6 @@
 		"emojione": "1.3.1"
 	},
 	"dependencies": {
-		"ag-grid": "1.2.3",
 		"chromedriver126": "25.24.1.2"
 	}
 }
