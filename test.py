@@ -8,7 +8,12 @@ import ast
 eval("__import__('os').system('clear')", {'__builtins__':{}})
 print(1)
 
-
+SQL_USER=testing
+SQL_PASSWORD=testing
+SUPER_ADMIN_EMAIL=support@test.com
+SUPER_ADMIN_PASSWORD=testing
+AWS_ACCESS_KEY_ID=testing
+AWS_SECRET_ACCESS_KEY=testing
 
 
 
